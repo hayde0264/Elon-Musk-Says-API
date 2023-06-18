@@ -1,6 +1,7 @@
 # Elon-Musk-Says-API
 
 <b> Purpose: </b>
+Strength my back-end skills by providing quotes from Elon Musk.
 
 <b> Tech Used: </b>
 
@@ -14,8 +15,9 @@
 
 ## Making API Requests
 
-# IMPORTANT!
-Start server by going to the root directoring and from your shell typing <code>python3 -m http.server 8080</code>.
+## {\color{red}IMPORTANT!}
+Start server by going to the root directory and from your shell typing <code>python3 -m http.server 8080</code>.
+
 
 ### With curl
 ```zsh
