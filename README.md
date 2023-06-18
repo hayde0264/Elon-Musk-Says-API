@@ -1,8 +1,8 @@
 # Elon-Musk-Says-API
 
 
-# Making API Requests
-## In JS
+## Making API Requests
+### In JS
 ```js
 const url = 'http://[::]:8080/json/data.json'
 
