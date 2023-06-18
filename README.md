@@ -9,7 +9,6 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <b> Quotes Provided By: </b>
@@ -18,7 +17,7 @@
 ## Making API Requests
 
 # IMPORTANT!
-Make sure you start the server by going to the root directoring and from your shell typing <code>python3 -m http.server 8080</code>.
+Start server by going to the root directoring and from your shell typing <code>python3 -m http.server 8080</code>.
 
 ### With curl
 ```sh
