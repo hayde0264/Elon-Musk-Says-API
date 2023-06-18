@@ -14,9 +14,10 @@ Strength my back-end skills by providing quotes from Elon Musk.
 <b> Quotes Provided By: </b>
 
 
-## Making API Requests
+# Making API Requests
 
-# $${\color{red}IMPORTANT}$$
+## $${\color{red}IMPORTANT}$$
+
 Start server by going to the root directory and from your shell typing <code>python3 -m http.server 8080</code>.
 
 
