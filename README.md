@@ -17,7 +17,9 @@ Strength my back-end skills by providing quotes from Elon Musk.
 ## Making API Requests
 
 
-# /textcolor{purple}IMPORTANT
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 Start server by going to the root directory and from your shell typing <code>python3 -m http.server 8080</code>.
 
 
