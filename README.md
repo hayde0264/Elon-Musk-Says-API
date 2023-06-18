@@ -16,6 +16,14 @@
 
 
 ## Making API Requests
+
+# IMPORTANT!
+Make sure you start the server by going to the root directoring and from your shell typing <code>python3 -m http.server 8080</code>.
+
+### With curl
+```sh
+curl http://[::]:8080/json/data.json
+```
 ### In JS
 ```js
 const url = 'http://[::]:8080/json/data.json'
