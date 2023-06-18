@@ -14,7 +14,7 @@ fetch(url, {
    .then(response => response.text())
    .then(text => console.log(text))
 ```
-## In Python
+### In Python
 ```py
 # Must pip3 install requests first
 
@@ -23,7 +23,7 @@ import requests
 res = requests.get('http://[::]:8080/json/data.json')
 print(res.json())
 ```
-## In PHP
+### In PHP
 ```php
 <?php
 
@@ -33,7 +33,7 @@ $data = file_get_contents($url);
 echo $data;
 ?>
 ```
-## In Ruby
+### In Ruby
 ```rb
 require 'uri'
 require 'net/http'
