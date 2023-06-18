@@ -13,6 +13,8 @@ Strength my back-end skills by providing quotes from Elon Musk.
 
 <b> <code>Quotes Provided By:</code> </b>
 
+<link>https://www.inc.com/bill-murphy-jr/51-elon-musk-quotes-ranked-in-order-of-pure-elon-muskiness.html</link>
+
 
 # Making API Requests
 
@@ -63,6 +65,6 @@ res = Net::HTTP.get_response(uri)
 puts res.body if res.is_a?(Net::HTTPSuccess)
 ```
 
-### Thank you for taking the time to look at my project, 
+### Thank you for taking the time to look at my project,
 
-### Hayden H. 
+### Hayden H.
