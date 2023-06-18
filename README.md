@@ -1,5 +1,11 @@
 # Elon-Musk-Says-API
 
+<b> Purpose: </b> 
+   
+<b> Tech Used: </b> 
+
+<b> Quotes Provided By: </b> 
+
 
 ## Making API Requests
 ### In JS
