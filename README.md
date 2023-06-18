@@ -1,6 +1,7 @@
 # Elon-Musk-Says-API
 
-<b> Purpose: </b>
+<b> Intensions: </b>
+
 Strength my back-end skills by providing quotes from Elon Musk.
 
 <b> Tech Used: </b>
@@ -15,7 +16,7 @@ Strength my back-end skills by providing quotes from Elon Musk.
 
 ## Making API Requests
 
-## ${\color{red}IMPORTANT}$
+  <h1 style="color:purple;">IMPORTANT</h1>
 Start server by going to the root directory and from your shell typing <code>python3 -m http.server 8080</code>.
 
 
