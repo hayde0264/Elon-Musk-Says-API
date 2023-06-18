@@ -67,4 +67,8 @@ puts res.body if res.is_a?(Net::HTTPSuccess)
 
 ### Thank you for taking the time to look at my project,
 
+<<<<<<< HEAD
 ### Hayden H.
+=======
+### Hayden H. 😃
+>>>>>>> ecdfffeeec68d4739c2ce02466992a03ca9c31bd
