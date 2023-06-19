@@ -1,6 +1,6 @@
 # Elon-Musk-Says-API
 
-<b> <code>Intensions:</code> </b>
+<b> <code>Intentions:</code> </b>
 
 Strength my back-end skills by providing quotes from Elon Musk.
 
