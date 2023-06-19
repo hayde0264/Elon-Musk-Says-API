@@ -21,11 +21,11 @@ Strength my back-end skills by providing quotes from Elon Musk.
 # $${\color{lightgreen}IMPORTANT}$$
 Start server by going to the root directory and from your shell typing <code>python3 -m http.server 8080</code>.
 
-### With curl
+### <code>Curl:</code> 
 ```zsh
 curl http://[::]:8080/json/data.json
 ```
-### In JS
+### <code>JS:</code> 
 ```js
 const url = 'http://[::]:8080/json/data.json'
 
@@ -37,7 +37,7 @@ fetch(url, {
    .then(response => response.text())
    .then(text => console.log(text))
 ```
-### In Python
+### <code>Python:</code> 
 ```py
 # Must pip3 install requests first
 import requests
@@ -45,7 +45,7 @@ import requests
 res = requests.get('http://[::]:8080/json/data.json')
 print(res.json())
 ```
-### In PHP
+### <code>PHP:</code> 
 ```php
 <?php
 
@@ -55,7 +55,7 @@ $data = file_get_contents($url);
 echo $data;
 ?>
 ```
-### In Ruby
+### <code>Ruby</code> 
 ```rb
 require 'uri'
 require 'net/http'
