@@ -18,7 +18,7 @@ Strength my back-end skills by providing quotes from Elon Musk.
 
 # Making API Requests
 
-# $${\color{lightgreen}IMPORTANT}$$
+# $${color{lightgreen}IMPORTANT}$$
 Start server by going to the root directory and from your shell typing <code>python3 -m http.server 8080</code>.
 
 ### Curl 
